@@ -1,65 +1,16 @@
-# BMR_Calculator
-Flutter app to calculate Basal Metabolic Rate (BMR)
+# bmr_calculator
 
-## Anggota Kelompok
-1. Rahayu Eriyana (K3523060)
-2. Rifdah Hanun Alfiyah (K3523068)
+A new Flutter project.
 
-## Deskripsi Singkat
-Aplikasi ini membantu pengguna mengetahui kebutuhan energi dasar tubuh berdasarkan:
-- **Jenis kelamin**
-- **Usia**
-- **Berat dan tinggi badan**
-- **Persentase lemak tubuh (opsional)**
-- **Rumus pilihan:** Mifflin-St Jeor, Revised Harris-Benedict, atau Katch-McArdle  
+## Getting Started
 
-## Fitur Aplikasi
-1. Menghitung nilai **BMR (Basal Metabolic Rate)**
-2. Memilih satuan: **US Units**, **Metric Units**, dan **Other Units**
-3. Memilih formula perhitungan: **Mifflin-St Jeor**, **Revised Harris-Benedict**, **Katch-McArdle**
-4. Menampilkan **tabel aktivitas dan kebutuhan kalori**
-5. Tampilan bersih dan responsif menggunakan **Material Design Flutter**
+This project is a starting point for a Flutter application.
 
-## Screenshot Aplikasi
-Halaman US Units:
-![US Units](assets/Screenshots/US_Units.jpg) 
+A few resources to get you started if this is your first Flutter project:
 
-Halaman Metric Units:
-![Metric Units](assets/Screenshots/Metric_Units.jpg) 
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-Halaman Other Units:
-![Other Units](assets/Screenshots/Other_Units.jpg) 
-
-Tampilan Calculate:
-![Tampilan Calculate](assets/Screenshots/tampilan_Calculate.jpg) 
-
-## Cara Menjalankan
-1. Pastikan sudah menginstal Flutter SDK  
-
-   ```bash
-   flutter --version
-
-3. Clone repository (atau ekstrak ZIP proyek ini):
-   ```bash
-   git clone https://github.com/riffiya/BMR_Calculator.git
-jika tidak menggunakan Git, cukup ekstrak folder proyek ke dalam komputer
-
-5. Masuk ke folder proyek:
-   ```bash
-   cd BMR_Calculator
-6. Unduh semua dependensi Flutter:
-   ```bash
-   flutter pub get
-   
-7. Jalankan aplikasi:
-   ```bash
-   flutter run
-
-Jika ada error pada asset, pastikan file pubspec.yaml berisi:
-```bash
-dependencies:
-  flutter:
-    sdk: flutter
-  font_awesome_flutter: ^10.6.0
-
-
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
