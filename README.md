@@ -22,16 +22,16 @@ Aplikasi ini membantu pengguna mengetahui kebutuhan energi dasar tubuh berdasark
 
 ## Screenshot Aplikasi
 Halaman US Units:
-![US Units](assets/Screenshots/US_Units.jpg) 
+![US Units](assets/Screenshots/US_Units.jpg) |
 
 Halaman Metric Units:
-![Metric Units](assets/Screenshots/Metric_Units.jpg) 
+![Metric Units](assets/Screenshots/Metric_Units.jpg) |
 
 Halaman Other Units:
-![Other Units](assets/Screenshots/Other_Units.jpg) 
+![Other Units](assets/Screenshots/Other_Units.jpg) |
 
 Tampilan Calculate:
-![Tampilan Calculate](assets/Screenshots/tampilan_Calculate.jpg) 
+![Tampilan Calculate](assets/Screenshots/tampilan_Calculate.jpg) |
 
 ## Cara Menjalankan
 1. Pastikan sudah menginstal Flutter SDK  
