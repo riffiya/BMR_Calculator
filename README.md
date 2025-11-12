@@ -21,6 +21,11 @@ Aplikasi ini membantu pengguna mengetahui kebutuhan energi dasar tubuh berdasark
 5. Tampilan bersih dan responsif menggunakan **Material Design Flutter**
 
 ## Screenshot Aplikasi
+<p align="center">
+  <img src="assets/Screenshots/US_Units.jpg" alt="Tampilan US Unit" width="300"><br>
+  <em>Tampilan US Unit</em>
+</p>
+
 Tampilan US Units : ![US Units](assets/Screenshots/US_Units.jpg)
 
 Tampilan Metric Units : ![Metric Units](assets/Screenshots/Metric_Units.jpg)
@@ -55,6 +60,7 @@ Tampilan Calculate : ![Calculate](assets/Screenshots/tampilan_Calculate.jpg)
 Jika ada error pada asset, pastikan file pubspec.yaml berisi:
    ```bash
    dependencies: flutter: sdk: flutter font_awesome_flutter: ^10.6.0
+
 
 
 
