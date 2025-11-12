@@ -65,7 +65,11 @@ Aplikasi ini membantu pengguna mengetahui kebutuhan energi dasar tubuh berdasark
 
 Jika ada error pada asset, pastikan file pubspec.yaml berisi:
    ```bash
-   dependencies: flutter: sdk: flutter font_awesome_flutter: ^10.6.0
+   dependencies:
+     flutter:
+        sdk:
+     flutter font_awesome_flutter: ^10.6.0
+
 
 
 
