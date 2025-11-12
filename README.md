@@ -26,14 +26,20 @@ Aplikasi ini membantu pengguna mengetahui kebutuhan energi dasar tubuh berdasark
   <em>Tampilan US Unit</em>
 </p>
 
-Tampilan US Units : ![US Units](assets/Screenshots/US_Units.jpg)
+<p align="center">
+  <img src="assets/Screenshots/Metric_Units.jpg" alt="Tampilan Metric Unit" width="300"><br>
+  <em>Tampilan Metric Unit</em>
+</p>
 
-Tampilan Metric Units : ![Metric Units](assets/Screenshots/Metric_Units.jpg)
+<p align="center">
+  <img src="assets/Screenshots/Other_Units.jpg" alt="Tampilan Other Unit" width="300"><br>
+  <em>Tampilan Other Unit</em>
+</p>
 
-Tampilan Other Units : ![Other Units](assets/Screenshots/Other_Units.jpg)
-
-Tampilan Calculate : ![Calculate](assets/Screenshots/tampilan_Calculate.jpg)
-
+<p align="center">
+  <img src="assets/Screenshots/tampilan_Calculate.jpg" alt="Tampilan Calculate" width="300"><br>
+  <em>Tampilan Calculate/Result</em>
+</p>
 
 ## Cara Menjalankan :
 1. Pastikan sudah menginstal Flutter SDK
@@ -60,6 +66,7 @@ Tampilan Calculate : ![Calculate](assets/Screenshots/tampilan_Calculate.jpg)
 Jika ada error pada asset, pastikan file pubspec.yaml berisi:
    ```bash
    dependencies: flutter: sdk: flutter font_awesome_flutter: ^10.6.0
+
 
 
 
